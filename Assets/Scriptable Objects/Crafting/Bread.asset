@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8fe81483e3cf4d2e9a1610dc3b781ed, type: 3}
+  m_Name: Bread
+  m_EditorClassIdentifier: 
+  leftPrefab: {fileID: 2013551018793968310, guid: f855e555573a24b4cae8529554ccc04d, type: 3}
+  rightPrefab: {fileID: 521490367860986116, guid: 83699c3ba0af64d3e814f0d3ba06e0fa, type: 3}
+  ingredients:
+  - {fileID: 11400000, guid: 71c3853e78913414693b3c795065be4a, type: 2}
+  - {fileID: 11400000, guid: 9bb2118802b914d1d9f09af9cc06d65a, type: 2}
+  numIngredients: 0300000001000000
+  result: {fileID: 11400000, guid: b2b290fbb4c9443d2807248f3cac31e4, type: 2}
+  numResult: 1
+  description: 

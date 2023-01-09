@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 954dcbb79d55446fb91f93b4af2a02e7, type: 3}
+  m_Name: Defaut Inventory
+  m_EditorClassIdentifier: 
+  defaultInv: {fileID: 0}
+  Container: []
+  materials:
+  - item: {fileID: 11400000, guid: 04a18f0561d034649a92985bc394cc1a, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: 9a2120d02682b4af0a470efa05c35b95, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: 71c3853e78913414693b3c795065be4a, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: cc928c0002d71427b9095cd42e50d823, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: 16fba3220c4064359bc4cafa2e72c04d, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: 9afda87432b734dc88e079d967af91ca, type: 2}
+    amount: 0
+  numStars: 0
+  maxStars: 99
+  starlight: {fileID: 0}
